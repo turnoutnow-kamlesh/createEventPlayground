@@ -1,0 +1,9 @@
+{
+    "arguments":{
+            "type": "event",
+            "name": "Demo Event",
+            "maxFiles": 20,
+            "customerName":"Apple",
+            "maxLanguages": 10
+        }
+}
